@@ -1,0 +1,5 @@
+Search Req
+Request URL: https://finnhub.io/api/v1/search?q=aapl&token=cf31a9iad3i7csbbt00gcf31a9iad3i7csbbt010
+
+Candle
+https://finnhub.io/api/v1/stock/candle?symbol=AAPL&resolution=15&from=1677485892&to=1678090692&token=cf31a9iad3i7csbbt00gcf31a9iad3i7csbbt010
